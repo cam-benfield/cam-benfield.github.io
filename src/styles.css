@@ -1,0 +1,23 @@
+/*
+ * Colors: 
+ * Chocolate Black: #1D1E18
+ * Russian Green: #6B8F71
+ * Turquoise Green: #AAD2BA
+ * Light Coral: #EC9192
+ * Blush: #DB5375
+*/
+
+* {
+  color: #1D1E18;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #6B8F71;
+}
+
+nav > li {
+  text-decoration: none;
+  list-style: none;
+}
